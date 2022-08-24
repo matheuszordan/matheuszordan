@@ -1,6 +1,6 @@
 Olá ! Eu sou o Matheus Zordan,
 
-Hoje trabalho com Back-End, 
+Hoje trabalho com Front-End, 
 
 Estudando React e NodeJs!
 
